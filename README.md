@@ -1,4 +1,4 @@
-# FOOD APP (React + Vite)
+# FOOD APP (React + Vite) - (TypeScript, TailwindCSS) 
 ## Home Screen
 ![image](https://github.com/user-attachments/assets/5e17c3e8-2763-488e-9e6c-b67caf57a2a9)
 ------------
